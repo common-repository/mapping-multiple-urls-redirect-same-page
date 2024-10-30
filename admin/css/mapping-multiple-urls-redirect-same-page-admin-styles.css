@@ -1,0 +1,26 @@
+.input_box{
+    padding: 3px 8px;
+    line-height: 100%;
+    margin: 0 0 3px;
+    height: 35px !important;
+}
+.input_label{
+	font-size: 17px;
+}
+.own_input
+{
+	width : 20%;
+    font-size: 1.4em;
+}
+.page_div_class p{
+	font-size: 16px;
+}
+.page_div_class{
+	margin-bottom: 20px;
+}
+.post_div_class p{
+	font-size: 16px;	
+}
+.post_div_class{
+	margin-bottom: 20px;
+}
